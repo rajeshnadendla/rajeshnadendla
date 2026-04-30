@@ -2,7 +2,7 @@
 
 🚀 Power BI | Fabric | SQL | Azure
 
-I am a Microsoft Certified Power BI Architect & Fabric Specialist with 20+ years of experience delivering enterprise-scale BI solutions across Finance, Healthcare and Retail. Expert in Power BI, Microsoft Fabric, Databricks, Azure Data Factory, DAX, and Lakehouse Architecture. Trusted advisor to executives — translating complex data into clear business outcomes.
+I am a Microsoft Certified Power BI Architect & Fabric Specialist with 20+ years of experience delivering enterprise-scale BI solutions across Finance, Healthcare and Retail. Expert in Power BI, Microsoft Fabric, Databricks, Azure Data Factory, DAX, and Lakehouse Architecture. Trusted advisor to executives, translating complex data into clear business outcomes.
 
 ---
 
