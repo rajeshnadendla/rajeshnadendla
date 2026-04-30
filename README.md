@@ -46,8 +46,8 @@ Power Apps | Power Automate | SSIS | SQL Server | Excel | Access
 ✅ Microsoft Certified Technology Specialist
 
 ---
-🔗 [Sales Dashboard](https://github.com/yourrepo)
-🔗 [Fabric Lakehouse Project](https://github.com/yourrepo)
+🔗 [Executive KPI Dashboard](https://github.com/rajeshnadendla/Executive-KPI-Dashboard)
+
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/rbnadendla
